@@ -1,6 +1,6 @@
 # RadiusPostcodes
 
-Unlock the potential of geographical data with `RadiusPostcodes`, a powerful R function that finds UK postcodes within a 10-mile radius of any location. This versatile tool is perfect for businesses and organizations looking to enhance their marketing efforts, optimize service delivery, or simply connect with their local community.
+Unlock the potential of geographical data with `RadiusPostcodes`, a R function that finds UK postcodes within a 10-mile radius of any other UK location. This versatile tool is perfect for businesses and organizations looking to enhance their marketing efforts, optimize service delivery, or simply connect with their local community.
 
 ## Getting Started
 
