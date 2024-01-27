@@ -2,13 +2,6 @@
 
 Unlock the potential of geographical data with `RadiusPostcodes`, a powerful R function that finds UK postcodes within a 10-mile radius of any location. This versatile tool is perfect for businesses and organizations looking to enhance their marketing efforts, optimize service delivery, or simply connect with their local community.
 
-## License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-## Author
-Chris Lawrence  
-Email: [hello@credenceanddecision.com](mailto:hello@credenceanddecision.com)
-
 ## Getting Started
 
 To use `RadiusPostcodes`, you'll need to have R installed on your system along with the necessary libraries: `geosphere`, `dplyr`, and `pbapply`.
@@ -52,6 +45,11 @@ Feel free to fork this repository, make changes, and submit pull requests. We're
 If you have any questions or need support, send an email to [hello@credenceanddecision.com](mailto:hello@credenceanddecision.com), and we'll be happy to help.
 
 
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
+## Author
+Chris Lawrence  
+Email: [hello@credenceanddecision.com](mailto:hello@credenceanddecision.com)
 
 
