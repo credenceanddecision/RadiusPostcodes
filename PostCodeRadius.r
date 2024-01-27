@@ -2,7 +2,7 @@ library(geosphere)
 library(dplyr)
 library(pbapply)
 
-setwd("~/Desktop")
+setwd("your/directory/path")
 
 # Function to write results to file
 write_results_to_file <- function(results, filename) {
